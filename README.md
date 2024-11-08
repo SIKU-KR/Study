@@ -9,5 +9,5 @@
 
 3. [(강의) HTTP & Network](https://github.com/SIKU-KR/Study/tree/68499fe65e71a233855aa23bba3697cb357fbc46/(%EA%B0%95%EC%9D%98)%20HTTP%20%26%20Network%20-%20%EA%B9%80%EC%98%81%ED%95%9C) - 2024년 8월
 
-4. (스터디) Spring-MVC
+4. [(스터디) GDG on Campus Konkuk - Spring 스터디](https://github.com/SIKU-KR/24-25-study-spring-learning-with-test) - 2024.10 ~ 
 
