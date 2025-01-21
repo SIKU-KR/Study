@@ -13,4 +13,7 @@
    1. [학습 내용 정리](https://github.com/SIKU-KR/Study/tree/a5f58ccb399de5c505fd8436566f8ca548605b66/(%EC%8A%A4%ED%84%B0%EB%94%94)%20GDGoC%20Spring%20%EC%8A%A4%ED%84%B0%EB%94%94) 
    2. [스터디 레포지토리](https://github.com/SIKU-KR/24-25-study-spring-learning-with-test)
    3. [미션 레포지토리](https://github.com/SIKU-KR/24-25-study-java-mvc)
-5. 
+
+5. [SQL for 코딩테스트](https://github.com/SIKU-KR/Study/tree/main/SQL%20for%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8) - 2025년 1월
+
+6. [리팩터링(마틴 파울러) 읽기 모임 with 토비](https://github.com/SIKU-KR/Refatoring-MartinFowler-Study) - 2025년 1월 ~ 현재
