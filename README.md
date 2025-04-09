@@ -16,4 +16,4 @@
 
 5. [SQL for 코딩테스트](https://github.com/SIKU-KR/Study/tree/main/SQL%20for%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8) - 2025년 1월
 
-6. [리팩터링(마틴 파울러) 읽기 모임 with 토비](https://github.com/SIKU-KR/Refatoring-MartinFowler-Study) - 2025년 1월 ~ 현재
+6. [리팩터링(마틴 파울러) 읽기 모임 with 토비](https://github.com/SIKU-KR/Study/tree/main/(%EC%B1%85)%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20-%20%EB%A7%88%ED%8B%B4%ED%8C%8C%EC%9A%B8%EB%9F%AC) - 2025.01 ~ 2025.04
